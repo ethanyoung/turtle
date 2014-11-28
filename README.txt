@@ -1,6 +1,3 @@
-Student Name: Zhiyi YANG
-Student ID: 23346698
-
 File in this distribution:
 	turtle2svg.pl		perl script
 	turtle2png.sh		shell script that invoke the above perl script
